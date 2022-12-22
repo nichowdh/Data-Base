@@ -1,4 +1,4 @@
-USE nishadb;
+USE niladri_db;
 #1. Create a table EMP1 with following structure.
 create table EMP1(id int primary key auto_increment, name varchar(10) not null, Basic float(6,2) not null ,
 designation varchar(30) not null,age int(10));
